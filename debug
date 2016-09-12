@@ -1,0 +1,162 @@
+11168 silly lifecycle hawk@3.1.3~postinstall: no script for postinstall, continuing
+11169 silly postinstall assert-plus@1.0.0 /usr/local/lib/node_modules/.staging/assert-plus-c7e89102
+11170 info lifecycle assert-plus@1.0.0~postinstall: assert-plus@1.0.0
+11171 silly lifecycle assert-plus@1.0.0~postinstall: no script for postinstall, continuing
+11172 silly postinstall string_decoder@0.10.31 /usr/local/lib/node_modules/.staging/string_decoder-c361af51
+11173 info lifecycle string_decoder@0.10.31~postinstall: string_decoder@0.10.31
+11174 silly lifecycle string_decoder@0.10.31~postinstall: no script for postinstall, continuing
+11175 silly postinstall readable-stream@1.0.34 /usr/local/lib/node_modules/.staging/readable-stream-72fccd99
+11176 info lifecycle readable-stream@1.0.34~postinstall: readable-stream@1.0.34
+11177 silly lifecycle readable-stream@1.0.34~postinstall: no script for postinstall, continuing
+11178 silly postinstall slice-stream@1.0.0 /usr/local/lib/node_modules/.staging/slice-stream-4221036a
+11179 info lifecycle slice-stream@1.0.0~postinstall: slice-stream@1.0.0
+11180 silly lifecycle slice-stream@1.0.0~postinstall: no script for postinstall, continuing
+11181 silly postinstall readable-stream@1.0.34 /usr/local/lib/node_modules/.staging/readable-stream-2856277a
+11182 info lifecycle readable-stream@1.0.34~postinstall: readable-stream@1.0.34
+11183 silly lifecycle readable-stream@1.0.34~postinstall: no script for postinstall, continuing
+11184 silly postinstall pullstream@0.4.1 /usr/local/lib/node_modules/.staging/pullstream-812a1e8e
+11185 info lifecycle pullstream@0.4.1~postinstall: pullstream@0.4.1
+11186 silly lifecycle pullstream@0.4.1~postinstall: no script for postinstall, continuing
+11187 silly postinstall readable-stream@1.0.34 /usr/local/lib/node_modules/.staging/readable-stream-2af0a8a7
+11188 info lifecycle readable-stream@1.0.34~postinstall: readable-stream@1.0.34
+11189 silly lifecycle readable-stream@1.0.34~postinstall: no script for postinstall, continuing
+11190 silly postinstall match-stream@0.0.2 /usr/local/lib/node_modules/.staging/match-stream-f8d71249
+11191 info lifecycle match-stream@0.0.2~postinstall: match-stream@0.0.2
+11192 silly lifecycle match-stream@0.0.2~postinstall: no script for postinstall, continuing
+11193 silly postinstall stringstream@0.0.5 /usr/local/lib/node_modules/.staging/stringstream-88beb787
+11194 info lifecycle stringstream@0.0.5~postinstall: stringstream@0.0.5
+11195 silly lifecycle stringstream@0.0.5~postinstall: no script for postinstall, continuing
+11196 silly postinstall strip-ansi@3.0.1 /usr/local/lib/node_modules/.staging/strip-ansi-af522414
+11197 info lifecycle strip-ansi@3.0.1~postinstall: strip-ansi@3.0.1
+11198 silly lifecycle strip-ansi@3.0.1~postinstall: no script for postinstall, continuing
+11199 silly postinstall supports-color@2.0.0 /usr/local/lib/node_modules/.staging/supports-color-b155fc8c
+11200 info lifecycle supports-color@2.0.0~postinstall: supports-color@2.0.0
+11201 silly lifecycle supports-color@2.0.0~postinstall: no script for postinstall, continuing
+11202 silly postinstall chalk@1.1.3 /usr/local/lib/node_modules/.staging/chalk-a40f5ed9
+11203 info lifecycle chalk@1.1.3~postinstall: chalk@1.1.3
+11204 silly lifecycle chalk@1.1.3~postinstall: no script for postinstall, continuing
+11205 silly postinstall tough-cookie@2.2.2 /usr/local/lib/node_modules/.staging/tough-cookie-31ca23f3
+11206 info lifecycle tough-cookie@2.2.2~postinstall: tough-cookie@2.2.2
+11207 silly lifecycle tough-cookie@2.2.2~postinstall: no script for postinstall, continuing
+11208 silly postinstall traverse@0.3.9 /usr/local/lib/node_modules/.staging/traverse-d89fb4c5
+11209 info lifecycle traverse@0.3.9~postinstall: traverse@0.3.9
+11210 silly lifecycle traverse@0.3.9~postinstall: no script for postinstall, continuing
+11211 silly postinstall chainsaw@0.1.0 /usr/local/lib/node_modules/.staging/chainsaw-77df56e8
+11212 info lifecycle chainsaw@0.1.0~postinstall: chainsaw@0.1.0
+11213 silly lifecycle chainsaw@0.1.0~postinstall: no script for postinstall, continuing
+11214 silly postinstall binary@0.3.0 /usr/local/lib/node_modules/.staging/binary-57a7dcce
+11215 info lifecycle binary@0.3.0~postinstall: binary@0.3.0
+11216 silly lifecycle binary@0.3.0~postinstall: no script for postinstall, continuing
+11217 silly postinstall tunnel-agent@0.4.3 /usr/local/lib/node_modules/.staging/tunnel-agent-51351ca2
+11218 info lifecycle tunnel-agent@0.4.3~postinstall: tunnel-agent@0.4.3
+11219 silly lifecycle tunnel-agent@0.4.3~postinstall: no script for postinstall, continuing
+11220 silly postinstall tweetnacl@0.13.3 /usr/local/lib/node_modules/.staging/tweetnacl-bb6a44b9
+11221 info lifecycle tweetnacl@0.13.3~postinstall: tweetnacl@0.13.3
+11222 silly lifecycle tweetnacl@0.13.3~postinstall: no script for postinstall, continuing
+11223 silly postinstall sshpk@1.10.0 /usr/local/lib/node_modules/.staging/sshpk-b06684c0
+11224 info lifecycle sshpk@1.10.0~postinstall: sshpk@1.10.0
+11225 silly lifecycle sshpk@1.10.0~postinstall: no script for postinstall, continuing
+11226 silly postinstall isarray@0.0.1 /usr/local/lib/node_modules/.staging/isarray-b794c44c
+11227 info lifecycle isarray@0.0.1~postinstall: isarray@0.0.1
+11228 silly lifecycle isarray@0.0.1~postinstall: no script for postinstall, continuing
+11229 silly postinstall readable-stream@1.0.34 /usr/local/lib/node_modules/.staging/readable-stream-d0a29877
+11230 info lifecycle readable-stream@1.0.34~postinstall: readable-stream@1.0.34
+11231 silly lifecycle readable-stream@1.0.34~postinstall: no script for postinstall, continuing
+11232 silly postinstall util-deprecate@1.0.2 /usr/local/lib/node_modules/.staging/util-deprecate-06677f4b
+11233 info lifecycle util-deprecate@1.0.2~postinstall: util-deprecate@1.0.2
+11234 silly lifecycle util-deprecate@1.0.2~postinstall: no script for postinstall, continuing
+11235 silly postinstall readable-stream@2.0.6 /usr/local/lib/node_modules/.staging/readable-stream-831c3433
+11236 info lifecycle readable-stream@2.0.6~postinstall: readable-stream@2.0.6
+11237 silly lifecycle readable-stream@2.0.6~postinstall: no script for postinstall, continuing
+11238 silly postinstall bl@1.0.3 /usr/local/lib/node_modules/.staging/bl-c019a6c8
+11239 info lifecycle bl@1.0.3~postinstall: bl@1.0.3
+11240 silly lifecycle bl@1.0.3~postinstall: no script for postinstall, continuing
+11241 silly postinstall verror@1.3.6 /usr/local/lib/node_modules/.staging/verror-13cdc34d
+11242 info lifecycle verror@1.3.6~postinstall: verror@1.3.6
+11243 silly lifecycle verror@1.3.6~postinstall: no script for postinstall, continuing
+11244 silly postinstall jsprim@1.3.0 /usr/local/lib/node_modules/.staging/jsprim-2a839898
+11245 info lifecycle jsprim@1.3.0~postinstall: jsprim@1.3.0
+11246 silly lifecycle jsprim@1.3.0~postinstall: no script for postinstall, continuing
+11247 silly postinstall http-signature@1.1.1 /usr/local/lib/node_modules/.staging/http-signature-50597e8f
+11248 info lifecycle http-signature@1.1.1~postinstall: http-signature@1.1.1
+11249 silly lifecycle http-signature@1.1.1~postinstall: no script for postinstall, continuing
+11250 silly postinstall wrappy@1.0.2 /usr/local/lib/node_modules/.staging/wrappy-2c3c97aa
+11251 info lifecycle wrappy@1.0.2~postinstall: wrappy@1.0.2
+11252 silly lifecycle wrappy@1.0.2~postinstall: no script for postinstall, continuing
+11253 silly postinstall once@1.4.0 /usr/local/lib/node_modules/.staging/once-361af939
+11254 info lifecycle once@1.4.0~postinstall: once@1.4.0
+11255 silly lifecycle once@1.4.0~postinstall: no script for postinstall, continuing
+11256 silly postinstall inflight@1.0.5 /usr/local/lib/node_modules/.staging/inflight-8af69c19
+11257 info lifecycle inflight@1.0.5~postinstall: inflight@1.0.5
+11258 silly lifecycle inflight@1.0.5~postinstall: no script for postinstall, continuing
+11259 silly postinstall glob@7.0.6 /usr/local/lib/node_modules/.staging/glob-413fa7cf
+11260 info lifecycle glob@7.0.6~postinstall: glob@7.0.6
+11261 silly lifecycle glob@7.0.6~postinstall: no script for postinstall, continuing
+11262 silly postinstall rimraf@2.5.4 /usr/local/lib/node_modules/.staging/rimraf-3ff2f847
+11263 info lifecycle rimraf@2.5.4~postinstall: rimraf@2.5.4
+11264 silly lifecycle rimraf@2.5.4~postinstall: no script for postinstall, continuing
+11265 silly postinstall fstream@0.1.31 /usr/local/lib/node_modules/.staging/fstream-96d89bb1
+11266 info lifecycle fstream@0.1.31~postinstall: fstream@0.1.31
+11267 silly lifecycle fstream@0.1.31~postinstall: no script for postinstall, continuing
+11268 silly postinstall unzip2@0.2.5 /usr/local/lib/node_modules/.staging/unzip2-a56a34d7
+11269 info lifecycle unzip2@0.2.5~postinstall: unzip2@0.2.5
+11270 silly lifecycle unzip2@0.2.5~postinstall: no script for postinstall, continuing
+11271 silly postinstall wrench@1.5.9 /usr/local/lib/node_modules/.staging/wrench-cd410037
+11272 info lifecycle wrench@1.5.9~postinstall: wrench@1.5.9
+11273 silly lifecycle wrench@1.5.9~postinstall: no script for postinstall, continuing
+11274 silly postinstall xtend@4.0.1 /usr/local/lib/node_modules/.staging/xtend-900bbdaa
+11275 info lifecycle xtend@4.0.1~postinstall: xtend@4.0.1
+11276 silly lifecycle xtend@4.0.1~postinstall: no script for postinstall, continuing
+11277 silly postinstall is-my-json-valid@2.13.1 /usr/local/lib/node_modules/.staging/is-my-json-valid-713687e7
+11278 info lifecycle is-my-json-valid@2.13.1~postinstall: is-my-json-valid@2.13.1
+11279 silly lifecycle is-my-json-valid@2.13.1~postinstall: no script for postinstall, continuing
+11280 silly postinstall har-validator@2.0.6 /usr/local/lib/node_modules/.staging/har-validator-77ce7474
+11281 info lifecycle har-validator@2.0.6~postinstall: har-validator@2.0.6
+11282 silly lifecycle har-validator@2.0.6~postinstall: no script for postinstall, continuing
+11283 silly postinstall request@2.69.0 /usr/local/lib/node_modules/.staging/request-8cd0bd54
+11284 info lifecycle request@2.69.0~postinstall: request@2.69.0
+11285 silly lifecycle request@2.69.0~postinstall: no script for postinstall, continuing
+11286 silly postinstall tldr@1.6.0 /usr/local/lib/node_modules/.staging/tldr-87d84667
+11287 info lifecycle tldr@1.6.0~postinstall: tldr@1.6.0
+11288 verbose lifecycle tldr@1.6.0~postinstall: unsafe-perm in lifecycle false
+11289 verbose lifecycle tldr@1.6.0~postinstall: PATH: /usr/share/npm/bin/node-gyp-bin:/usr/local/lib/node_modules/tldr/node_modules/.bin:/usr/local/lib/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+11290 verbose lifecycle tldr@1.6.0~postinstall: CWD: /usr/local/lib/node_modules/tldr
+11291 silly lifecycle tldr@1.6.0~postinstall: Args: [ '-c', 'node ./bin/tldr --update' ]
+11292 info lifecycle tldr@1.6.0~postinstall: Failed to exec postinstall script
+11293 verbose unlock done using /home/daisha/.npm/_locks/staging-3a08f0df5026584d.lock for /usr/local/lib/node_modules/.staging
+11294 silly rollbackFailedOptional Starting
+11295 silly rollbackFailedOptional Finishing
+11296 silly runTopLevelLifecycles Starting
+11297 silly runTopLevelLifecycles Finishing
+11298 silly install printInstalled
+11299 verbose stack Error: tldr@1.6.0 postinstall: `node ./bin/tldr --update`
+11299 verbose stack spawn ENOENT
+11299 verbose stack     at ChildProcess.<anonymous> (/usr/share/npm/lib/utils/spawn.js:17:16)
+11299 verbose stack     at emitTwo (events.js:87:13)
+11299 verbose stack     at ChildProcess.emit (events.js:172:7)
+11299 verbose stack     at maybeClose (internal/child_process.js:821:16)
+11299 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+11300 verbose pkgid tldr@1.6.0
+11301 verbose cwd /home/daisha/Downloads
+11302 error Linux 4.4.0-36-generic
+11303 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install" "-g" "tldr"
+11304 error node v4.2.6
+11305 error npm  v3.5.2
+11306 error file sh
+11307 error code ELIFECYCLE
+11308 error errno ENOENT
+11309 error syscall spawn
+11310 error tldr@1.6.0 postinstall: `node ./bin/tldr --update`
+11310 error spawn ENOENT
+11311 error Failed at the tldr@1.6.0 postinstall script 'node ./bin/tldr --update'.
+11311 error Make sure you have the latest version of node.js and npm installed.
+11311 error If you do, this is most likely a problem with the tldr package,
+11311 error not with npm itself.
+11311 error Tell the author that this fails on your system:
+11311 error     node ./bin/tldr --update
+11311 error You can get information on how to open an issue for this project with:
+11311 error     npm bugs tldr
+11311 error Or if that isn't available, you can get their info via:
+11311 error     npm owner ls tldr
+11311 error There is likely additional logging output above.
+11312 verbose exit [ 1, true ]
